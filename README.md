@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distort&color=gradient&height=200&section=header&text=Ulug'bekov%20Aslbek&fontSize=70&animation=fadeIn" width="100%" />
+  
 </div>
 
 <div align="center">
@@ -66,5 +66,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+  
 </div>
